@@ -1,5 +1,3 @@
 # Hola, este será el título
 
-```bash
-git status
-git add .
+## Estas en feature/first-branch.
